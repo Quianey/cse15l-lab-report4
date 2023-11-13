@@ -61,4 +61,27 @@ bash test.sh <enter>
 to run the test again. Now we secceed. 
 ![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/12d1ac63-4b27-4e82-9a09-4cf3e25cab6f)
 
-9. 
+press 
+```
+git add ListExamples.java<enter>
+git commit<enter>
+```
+to commit the change
+![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/c27fc869-0d58-4c86-9dd2-6ba229d440d2)
+
+![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/6e3fc80a-ff08-4c3b-a720-3df635231c83)
+
+press j 10 times to find the line ```modified: ListExamples.java```
+![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/69dbf981-509c-4cae-bedc-e34561182347)
+
+press l 31 times, stopping at the space right after java
+![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/5851014b-4b15-4625-96a7-c6b21d5368ab)
+
+press i and type <space>index1<space>to<space>index2
+![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/5c50a694-ec80-4b15-837f-926ead9bba95)
+
+press <Esc> to exit the insert mode
+![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/5175be5f-95a2-43ab-bf90-2e94b0005e1d)
+
+press :wq to quit git commit
+
