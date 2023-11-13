@@ -32,7 +32,7 @@ to inter the vim mode
 ![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/5a2bc95f-68c0-40cf-98fe-3309b148e30d)
 ![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/6bccdc02-b7d9-4e6e-9da6-d7d704ce143a)
 
-   press j 43 times to find the line ```      index1 += 1```
+   press j 43 times to find the line ```index1 += 1```
 ![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/104fd12f-e85a-482e-873f-7500c4404e1c)
 
    press l 12 times, stopping at the space right after index1
