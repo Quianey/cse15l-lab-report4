@@ -78,7 +78,7 @@ press ```<Esc>``` to exit the insert mode
 ![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/a03352ff-90de-4153-b329-804c61416cde)
 
 press ```:wq``` and ```<enter>``` to quit git commit
-press ```git push``` to push the commit.
+press ```git push``` and ```<enter>``` to push the commit.
 ![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/3aab957f-c69b-4d5b-bc7b-7694ae678050)
 
 
