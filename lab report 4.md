@@ -8,10 +8,10 @@ to log into ieng6
 
 5. press
 ```
-git clone https://github.com/Quianey/lab7repo <enter>
+git clone git@github.com:Quianey/lab7repo.git <enter>
 ```
 to clone my fork of the repository from my Github account
-![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/790c095f-b446-417f-9f53-ed675e4c3c92)
+![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/ddc6323d-32d7-4e57-b2c2-af5cffd89ff4)
 
 6. press
 ```
@@ -22,7 +22,7 @@ to change directory to the working directoru. Then press
 bash test.sh <enter>
 ```
 to run the test. And we got failures. 
-![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/556421e1-a702-44d5-83fd-f88b96d241b6)
+![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/80f38000-69e1-45ce-97de-83862e205dbb)
 
 7. press
 ```
@@ -52,14 +52,15 @@ to inter the vim mode
 
    press ```:wq``` and ```<enter>``` to quit vim
    ![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/4ff8ec03-91e2-400f-9dd7-7fd08a498f92)
-![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/b534c83c-62e1-4a27-8d8b-f2e5ff115166)
+
 
 8. press
 ```
 bash test.sh <enter>
 ```
 to run the test again. Now we secceed. 
-![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/12d1ac63-4b27-4e82-9a09-4cf3e25cab6f)
+![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/e70bb673-43c8-4e41-b147-e3f0f0868023)
+
 
 press 
 ```
@@ -67,7 +68,7 @@ git add ListExamples.java<enter>
 git commit<enter>
 ```
 to commit the change
-![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/c27fc869-0d58-4c86-9dd2-6ba229d440d2)
+![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/54fc1c7e-f27a-42dd-8ebe-8a6dea73cd6c)
 
 ![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/6e3fc80a-ff08-4c3b-a720-3df635231c83)
 
@@ -77,9 +78,13 @@ press ```i``` to get into insert mode and type "changed from index1 to index2" d
 press ```<Esc>``` to exit the insert mode
 ![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/a03352ff-90de-4153-b329-804c61416cde)
 
-press ```:wq``` and ```<enter>``` to quit git commit
-press ```git push``` and ```<enter>``` to push the commit.
-![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/3aab957f-c69b-4d5b-bc7b-7694ae678050)
+press ```:wq <enter>``` to quit git commit
+![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/0bbd919f-66a1-4454-8b51-d1f3b327fd7e)
+
+press ```git push <enter>``` to push the commit.
+![image](https://github.com/Quianey/cse15l-lab-report4/assets/147276821/06a214db-53d0-4ddc-ab66-fc451e2cdff5)
+
+
 
 
 
